@@ -15,8 +15,8 @@
 <p> Arduino </p>
 
 
-<h2> &#127794; Meet My Parents </h2>                                                                                        
+<h2> &#128104;&#8205;&#128104;&#8205;&#128103; Meet My Parents </h2>                                                                                        
 
-<p> Dia Maria Nassar Achkar </p>
-<p> Kevin Abou Rida </p>
-<p> Jino Hleiss </p>
+<p> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Dia Maria Nassar Achkar </p>
+<p> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Kevin Abou Rida </p>
+<p> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Jino Hleiss </p>
