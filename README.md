@@ -17,6 +17,6 @@
 
 <h2> &#128104;&#8205;&#128104;&#8205;&#128103; Meet My Parents </h2>                                                                                        
 
-<p> <img src="https://drive.google.com/uc?export=view&id=1JeV41g-xNRA8rkk_AYRp9QrZVdx8yJd_" height="20"> Dia Maria Nassar Achkar </p>
+<p> <img src="https://drive.google.com/uc?id=1JeV41g-xNRA8rkk_AYRp9QrZVdx8yJd_" height="20"> Dia Maria Nassar Achkar </p>
 <p> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Kevin Abou Rida </p>
 <p> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Jino Hleiss </p>
