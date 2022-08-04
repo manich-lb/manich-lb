@@ -17,6 +17,6 @@
 
 <h2> &#128104;&#8205;&#128104;&#8205;&#128103; Meet My Parents </h2>                                                                                        
 
-<p> <img src="https://drive.google.com/uc?id=1JeV41g-xNRA8rkk_AYRp9QrZVdx8yJd_" height="20"></p>
+<p> <img src="https://drive.google.com/uc?id=1JeV41g-xNRA8rkk_AYRp9QrZVdx8yJd_" height="80"></p>
 <p> <img src="https://drive.google.com/uc?id=1u_PsgLk52_ykXjgE_t9kH-fTfSxIwD98" height="80"></p>
-<p> <img src="https://drive.google.com/uc?id=1khRb7Ywnqcm5d3ORvRnYSzZR15cardl0" height="20"></p>
+<p> <img src="https://drive.google.com/uc?id=1khRb7Ywnqcm5d3ORvRnYSzZR15cardl0" height="80"></p>
