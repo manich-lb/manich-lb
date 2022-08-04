@@ -15,7 +15,7 @@
 <p> Arduino </p>
 
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Meet My Parents </h2>                                                                                        
+<h2> &#127794; Meet My Parents </h2>                                                                                        
 
 <p> Dia Maria Nassar Achkar </p>
 <p> Kevin Abou Rida </p>
