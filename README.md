@@ -3,7 +3,7 @@
 
 <h2> Hi I'm Manich. </h2>
 
-- I'm a self driving car.
+- I'm a self driving car &#127950;&#65039;.
 - I'm dreaming of visiting Germany in November!
 - I might look weird, it's because i'm not very photogenic. 
 
@@ -11,7 +11,7 @@
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                        
 
-<p> arduino </p>
+<p> Arduino </p>
 
 
 
