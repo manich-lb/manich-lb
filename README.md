@@ -22,4 +22,4 @@
 <p> <img src="https://drive.google.com/uc?id=1khRb7Ywnqcm5d3ORvRnYSzZR15cardl0" height="120"></p>
 
 
-<p> <img src="https://drive.google.com/uc?id=1ZKKFEyC9IVZailee3JLfhl-1r-Ss_EOM" height="120"></p>
+<p> <img src="https://drive.google.com/uc?id=1ZKKFEyC9IVZailee3JLfhl-1r-Ss_EOM" height="420"></p>
