@@ -14,7 +14,7 @@
 
 <p> Arduino </p>
 <h2>How was i born</h2>
-<p> <img src="https://github.com/manich-lb/manich-lb/blob/main/tommy.wro.jpeg?raw=true" height="120" /></p>
+<p> <img src=https://github.com/manich-lb/manich-lb/blob/main/diagram.jpeg?raw=true" height="120" /></p>
 
 <h2> &#128104;&#8205;&#128104;&#8205;&#128103; Meet My Parents </h2>                                                                                        
 
