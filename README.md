@@ -13,7 +13,8 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                        
 
 <p> Arduino </p>
-
+<h2>How was i born</h2>
+<p> <img src="https://github.com/manich-lb/manich-lb/blob/main/tommy.wro.jpeg?raw=true" height="120" /></p>
 
 <h2> &#128104;&#8205;&#128104;&#8205;&#128103; Meet My Parents </h2>                                                                                        
 
